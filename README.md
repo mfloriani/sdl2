@@ -1,4 +1,4 @@
-# SDL2
+# SDL2 -> https://www.libsdl.org/
 
 SDL2 files needed to start a new project. 
 
